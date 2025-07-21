@@ -1,0 +1,12 @@
+{
+  "name": "skin-care-store",
+  "version": "1.0.0",
+  "description": "Demo store for skincare product",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
